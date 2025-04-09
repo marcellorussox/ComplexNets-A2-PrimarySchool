@@ -1,7 +1,5 @@
 # ComplexNets-A2-PrimarySchool
 
-Welcome to the nerdiest corner of GitHub, where graph theory meets real-world chaos — a.k.a. face-to-face interactions among hyperactive primary school kids and their brave teachers.
-
 ## 📚 Project Overview
 This repository contains the full analysis pipeline for investigating the **community structure** of a face-to-face interaction network collected in a French primary school, as described in the Sociopatterns project:
 
@@ -61,12 +59,6 @@ cd ComplexNets-A2-PrimarySchool
 jupyter notebook ComplexNets-A2-PrimarySchool.ipynb
 ```
 3. Run all cells and enjoy the graphs, plots, and social insight.
-
-## 🚀 Bonus Nerd Points
-- Full support for **weighted edge analysis** ✔️
-- Metadata-aware community interpretation ✔️
-- Nerd-grade plotting aesthetics ✔️
-- Clean, modular notebook design ✔️
 
 ## 📖 Reference
 Stehlé, J., et al. (2011). High-resolution measurements of face-to-face contact patterns in a primary school. *PloS one*, 6(8), e23176.
